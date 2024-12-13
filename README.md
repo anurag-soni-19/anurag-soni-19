@@ -1,7 +1,7 @@
 # Hi there, I'm Anurag Soni. 
 
 ## 🚀 About Me
-I am an enthusiastic and innovative aspiring developer who enjoys creating projects that make a difference in people's lives. My passion is focused on trying on new things and experimenting, learning with them.                                                            
+I am an enthusiastic and innovative aspiring web developer who enjoys creating projects that make a difference in people's lives. My passion is focused on trying on new things and experimenting, learning with them.                                                            
 
 ## 🛠️ Technologies and Tools
 - 💻 **Languages:** 
